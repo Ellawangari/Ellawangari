@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hellen Wangari</h1>
-<h3 align="center">A passionate software developer currently transition to cloud computing development.</h3>
+<h3 align="center">A passionate software developer currently transitioning to cloud computing development.</h3>
 
 - 🔭 I’m currently working on **Building my portfolio with Azure projects.**
 
