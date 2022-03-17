@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Azure services and python.**
 
-- 👯 I’m looking to collaborate on **developing Azure services and how to create ETL pipelines with Azure Data Factory.**
+- 👯 I’m looking to collaborate on **developing Azure services projects and how to create ETL pipelines with Azure Data Factory.**
 
 - 📫 How to reach me **elamaina8@gmail.com**
 
