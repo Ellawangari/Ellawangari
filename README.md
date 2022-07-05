@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hellen Wangari</h1>
-<h3 align="center">A passionate software developer currently transitioning to Cloud Computing & DevOps development .</h3>
+<h3 align="center">A passionate software developer currently learning DevOps tools .</h3>
 
-- 🔭 I’m currently working on **Building a portfolio of Azure  & DevOps Projects.**
+- 🔭 I’m currently working on **Building a portfolio of DevOps Projects.**
 
-- 🌱 I’m currently learning **Azure services and DevOps technologies.**
-
-- 👯 I’m looking to collaborate on **developing Azure services  and DevOps Projects.**
+- 👯 I’m looking to collaborate on **developing DevOps Projects.**
 
 - 📫 How to reach me **elamaina8@gmail.com**
 
