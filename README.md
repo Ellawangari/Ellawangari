@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building a portfolio of DevOps Projects.**
 
-- 👯 I’m looking to collaborate on **developing DevOps Projects && Open source projects.**
+- 👯 I’m looking to collaborate on **developing DevOps Projects and open source projects.**
 
 - 📔 Check out my DevOps blogs **https://elladev.hashnode.dev**
 
