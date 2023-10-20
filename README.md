@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hellen Wangari</h1>
-<h3 align="center">A passionate software developer currently learning DevOps tools .</h3>
+<h3 align="center">A passionate DevOps Engineer who is constantly learning .</h3>
 
 - 🔭 I’m currently working on **Building a portfolio of DevOps Projects.**
 
-- 👯 I’m looking to collaborate on **developing DevOps Projects.**
+- 👯 I’m looking to collaborate on **developing DevOps Projects && Open source projects.**
 
 - 📔 Check out my DevOps blogs **https://elladev.hashnode.dev**
 
